@@ -18,7 +18,7 @@ When I’m not coding, I’m teaching others how to craft beautiful and function
 ## 📚 Teaching  
 I run sessions on frontend development, helping beginners go from *zero to deploy*.  
 My classes cover **HTML, CSS, JavaScript, React, and modern workflows**.  
-I believe coding isn’t just about syntax—it’s about problem solving and creating experiences that matter.  
+I believe coding isn’t just about syntax, it’s about problem solving and creating experiences that matter.  
 
 ---
 
