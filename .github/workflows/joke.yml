@@ -1,0 +1,52 @@
+name: Update Joke in README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Runs daily at 6 AM UTC
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Fetch joke and update README
+        run: |
+          import requests, re
+
+          # Fetch joke
+          r = requests.get("https://official-joke-api.appspot.com/jokes/programming/random")
+          joke = r.json()[0]
+          text = f"> **{joke['setup']}**  \n> {joke['punchline']} 😂"
+
+          # Read README
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Replace between markers
+          new_content = re.sub(
+              r"(?s)(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)",
+              f"\\1\n{text}\n\\3",
+              content
+          )
+
+          # Write updated README
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+        shell: python
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update joke 🤣" || echo "No changes to commit"
+          git push
