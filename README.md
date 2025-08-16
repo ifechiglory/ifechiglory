@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Efay  
+# 👋 Hi there, I'm Ife
 
 ### 🚀 Software Engineer | Frontend Developer | Tech Educator  
 
