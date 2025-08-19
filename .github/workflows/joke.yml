@@ -23,33 +23,42 @@ jobs:
 
       - name: Fetch joke and update README
         run: |
-          import requests, re
+          import requests, re, sys
 
-          # Fetch joke
-          r = requests.get("https://official-joke-api.appspot.com/jokes/programming/random")
-          joke = r.json()[0]
-          text = f"> **{joke['setup']}**  \n> {joke['punchline']} 😂"
+          joke_text = None
+          try:
+              r = requests.get("https://official-joke-api.appspot.com/jokes/programming/random", timeout=10)
+              r.raise_for_status()
+              joke = r.json()[0]
+              joke_text = f"> **{joke['setup']}**  \n> {joke['punchline']} 😂"
+          except Exception as e:
+              print(f"⚠️ Could not fetch joke: {e}", file=sys.stderr)
 
-          # Read README
-          with open("README.md", "r", encoding="utf-8") as f:
-              content = f.read()
+          if joke_text:
+              # Read README
+              with open("README.md", "r", encoding="utf-8") as f:
+                  content = f.read()
 
-          # Replace between markers
-          new_content = re.sub(
-              r"(?s)(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)",
-              f"\\1\n{text}\n\\3",
-              content
-          )
+              # Replace between markers
+              new_content = re.sub(
+                  r"(?s)(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)",
+                  f"\\1\n{joke_text}\n\\3",
+                  content
+              )
 
-          # Write updated README
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(new_content)
+              # Write updated README
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new_content)
+          else:
+              print("⚠️ Skipping README update since no joke was fetched.")
         shell: python
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update joke 🤣" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
