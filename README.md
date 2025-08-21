@@ -43,9 +43,9 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **Why do programmers prefer dark mode?**  
-> Because light attracts bugs 🐛
- <!-- JOKE-END -->
+> **I was gonna tell you a joke about UDP...**  
+> ...but you might not get it. 😂
+<!-- JOKE-END -->
 
 ---
 
