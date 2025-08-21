@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **How do you check if a webpage is HTML5?**  
-> Try it out on Internet Explorer 😂
+> **Why was the font always tired?**  
+> It was always bold. 😂
 <!-- JOKE-END -->
 
 ---
