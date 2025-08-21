@@ -42,12 +42,10 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
-<!-- JOKE START -->
-
+<!-- JOKE-START -->
 > **Why do programmers prefer dark mode?**  
 > Because light attracts bugs 🐛
-
- <!-- JOKE END -->
+ <!-- JOKE-END -->
 
 ---
 
