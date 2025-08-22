@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **Why was the font always tired?**  
-> It was always bold. 😂
+> **3 SQL statements walk into a NoSQL bar. Soon, they walk out**  
+> They couldn't find a table. 😂
 <!-- JOKE-END -->
 
 ---
