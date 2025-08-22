@@ -23,7 +23,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 ---
 
 ## 🌱 Currently Learning  
-- Next.js
+- RTK
+- Storybook
 
 ---
 
