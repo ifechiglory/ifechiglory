@@ -44,8 +44,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **3 SQL statements walk into a NoSQL bar. Soon, they walk out**  
-> They couldn't find a table. 😂
+> **Where did the API go to eat?**  
+> To the RESTaurant. 😂
 <!-- JOKE-END -->
 
 ---
