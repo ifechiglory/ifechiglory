@@ -44,8 +44,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **Where did the API go to eat?**  
-> To the RESTaurant. 😂
+> **Why do Java programmers wear glasses?**  
+> Because they don't C#. 😂
 <!-- JOKE-END -->
 
 ---
