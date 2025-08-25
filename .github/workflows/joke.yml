@@ -26,7 +26,7 @@ jobs:
 
       - name: Fetch joke and update README
         run: |
-          import requests, re, sys
+          import requests, re, sys, datetime
 
           joke_text = None
           try:
@@ -62,8 +62,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -e
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md || true
-          git commit -m "chore: daily update 🌞" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git add .last_run.txt || true
+
+          DATE=$(date +'%Y-%m-%d')
+          git commit -m "chore: daily update 🌞 [$DATE]" || echo "No changes to commit"
+
+          # First push attempt
+          if ! git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main; then
+            echo "⚠️ First push failed. Retrying with pull --rebase..."
+            git pull --rebase https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} main
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          fi
