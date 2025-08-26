@@ -44,8 +44,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **Why do programmers always get Christmas and Halloween mixed up?**  
-> Because DEC 25 = OCT 31 😂
+> **What's the object-oriented way to become wealthy?**  
+> Inheritance 😂
 <!-- JOKE-END -->
 
 ---
