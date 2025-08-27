@@ -44,8 +44,8 @@ I believe coding isn’t just about syntax, it’s about problem solving and cre
 Here’s a little dev humor (thanks to [Official Joke API](https://official-joke-api.appspot.com/)):  
 
 <!-- JOKE-START -->
-> **What's the object-oriented way to become wealthy?**  
-> Inheritance 😂
+> **How many programmers does it take to change a lightbulb?**  
+> None that's a hardware problem 😂
 <!-- JOKE-END -->
 
 ---
