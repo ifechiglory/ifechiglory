@@ -70,7 +70,7 @@ jobs:
           git add .last_run.txt || true
 
           DATE=$(date +'%Y-%m-%d')
-          git commit -m "chore: daily update 🌞 [$DATE]" || echo "No changes to commit"
+          git commit -m "chore: daily update [$DATE]" || echo "No changes to commit"
 
           # First push attempt
           if ! git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main; then
