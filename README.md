@@ -39,9 +39,9 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ---
 
 ## 📊 GitHub Stats  
-![Efay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifechukwu-edet&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifechukwu-edet&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ifechukwu-edet&theme=radical)  
+![Efay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifechiglory&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifechiglory&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ifechiglory&theme=radical)  
 
 ---
 
