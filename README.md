@@ -39,11 +39,9 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ---
 
 ## 📊 GitHub Stats   
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifechiglory&show_icons=true&theme=radical" alt="Efay's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifechiglory&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=ifechiglory&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
