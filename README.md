@@ -49,9 +49,9 @@ Here’s a little dev humor (thanks to Official Joke API):
 
 ## 📊 GitHub Stats
 
-![Efay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifechiglory&count_private=true&show_icons=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ifechiglory&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifechiglory&layout=compact&langs_count=8&count_private=true)
+![Efay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifechiglory&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ifechiglory&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifechiglory&layout=compact&langs_count=8&count_private=true&theme=radical&cache_seconds=1800)
 
 
 ---
