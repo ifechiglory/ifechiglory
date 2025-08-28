@@ -11,7 +11,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch a random joke
         run: |
@@ -26,18 +28,17 @@ jobs:
           echo "$JOKE" >> README.md
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          git config --global user.name "Ifechukwu Edet"
-          git config --global user.email "ifechiglory@gmail.com"
+          git config user.name "Ifechukwu Edet"
+          git config user.email "ifechiglory@gmail.com"
 
           date > .last_run.txt
           git add .last_run.txt README.md || true
           
           export TZ=Africa/Lagos
           DATE=$(date +'%Y-%m-%d %H:%M:%S %Z')
-          git commit -m "chore: daily update 🌞 [$DATE]" || git commit --allow-empty -m "chore: daily heartbeat 🌞 [$DATE]"
+          git commit -m "chore: daily update 🌞 [$DATE]" || \
+          git commit --allow-empty -m "chore: daily heartbeat 🌞 [$DATE]"
 
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git push
