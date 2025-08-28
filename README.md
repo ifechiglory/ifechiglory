@@ -52,10 +52,10 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
-<!-- JOKE START -->
+<!-- JOKE-START -->
 > 💡 *Why do programmers prefer dark mode?*  
 > Because light attracts bugs 🐛  
-<!-- JOKE END -->
+<!-- JOKE-END -->
   
 ---
 
