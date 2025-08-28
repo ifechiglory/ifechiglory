@@ -1,80 +1,43 @@
-name: Update Joke in README
+name: Update Joke
 
 on:
   schedule:
-    - cron: "0 6 * * *" # Runs daily at 6 AM UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 7 * * *' # Runs daily at 7am UTC
+  workflow_dispatch: # Allow manual trigger too
 
 jobs:
-  update-readme:
+  update-joke:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Fetch joke and update README
+      - name: Fetch a random joke
         run: |
-          import requests, re, sys, datetime
+          curl -s https://v2.jokeapi.dev/joke/Any > joke.json
+          cat joke.json
 
-          joke_text = None
-          try:
-              r = requests.get("https://official-joke-api.appspot.com/jokes/programming/random", timeout=10)
-              r.raise_for_status()
-              joke = r.json()[0]
-              joke_text = f"> **{joke['setup']}**  \n> {joke['punchline']} 😂"
-          except Exception as e:
-              print(f"⚠️ Could not fetch joke: {e}", file=sys.stderr)
-
-          if joke_text:
-              with open("README.md", "r", encoding="utf-8") as f:
-                  content = f.read()
-
-              new_content = re.sub(
-                  r"(?s)(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)",
-                  f"\\1\n{joke_text}\n\\3",
-                  content
-              )
-
-              with open("README.md", "w", encoding="utf-8") as f:
-                  f.write(new_content)
-          else:
-              print("⚠️ Skipping README update since no joke was fetched.")
-        shell: python
-
-      - name: Force daily commit (heartbeat)
+      - name: Update README with new joke
         run: |
-          date > .last_run.txt
-          git add .last_run.txt
+          JOKE=$(jq -r '.joke // (.setup + " " + .delivery)' joke.json)
+          echo "## 😂 Joke of the Day" > README.md
+          echo "" >> README.md
+          echo "$JOKE" >> README.md
 
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Ifechukwu Edet"
+          git config --global user.email "ifechiglory@gmail.com"
 
-          git add README.md || true
-          git add .last_run.txt || true
+          date > .last_run.txt
+          git add .last_run.txt README.md || true
+          
+          export TZ=Africa/Lagos
+          DATE=$(date +'%Y-%m-%d %H:%M:%S %Z')
+          git commit -m "chore: daily update 🌞 [$DATE]" || git commit --allow-empty -m "chore: daily heartbeat 🌞 [$DATE]"
 
-          DATE=$(date +'%Y-%m-%d')
-          git commit -m "chore: daily update [$DATE]" || echo "No changes to commit"
-
-          # First push attempt
-          if ! git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main; then
-            echo "⚠️ First push failed. Retrying with pull --rebase..."
-            git pull --rebase https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} main
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
-          fi
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
