@@ -41,8 +41,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> 💡 *Why do programmers prefer dark mode?*  
-> Because light attracts bugs 🐛  
+> **Why was the font always tired?**  
+> It was always bold. 😂
 <!-- JOKE-END -->
 
 ---
