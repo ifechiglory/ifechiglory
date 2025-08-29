@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the developer quit his job?**  
-> Because he didn't get arrays. 😂
+> **Why did the private classes break up?**  
+> Because they never saw each other. 😂
 <!-- JOKE-END -->
 
 ---
