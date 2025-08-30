@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the private classes break up?**  
-> Because they never saw each other. 😂
+> **Hey, wanna hear a joke?**  
+> Parsing HTML with regex. 😂
 <!-- JOKE-END -->
 
 ---
