@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the developer go broke buying Bitcoin?**  
-> He kept calling it bytecoin and didn't get any. 😂
+> **Why did the developer go to therapy?**  
+> They had too many unresolved issues. 😂
 <!-- JOKE-END -->
 
 ---
