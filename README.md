@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What did the Java code say to the C code?**  
-> You've got no class. 😂
+> **What’s the object-oriented way to become wealthy?**  
+> Inheritance. 😂
 <!-- JOKE-END -->
 
 ---
