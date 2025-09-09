@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the programmer bring a ladder to work?**  
-> They heard the code needed to be debugged from a higher level. 😂
+> **Why did the developer go to therapy?**  
+> They had too many unresolved issues. 😂
 <!-- JOKE-END -->
 
 ---
