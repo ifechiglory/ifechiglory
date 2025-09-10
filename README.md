@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the developer go to therapy?**  
-> They had too many unresolved issues. 😂
+> **Why did the programmer go to art school?**  
+> He wanted to learn how to code outside the box. 😂
 <!-- JOKE-END -->
 
 ---
