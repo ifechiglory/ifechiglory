@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Where did the API go to eat?**  
-> To the RESTaurant. 😂
+> **Why did the programmer's wife leave him?**  
+> He didn't know how to commit. 😂
 <!-- JOKE-END -->
 
 ---
