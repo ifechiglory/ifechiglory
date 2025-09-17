@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **How many React developers does it take to change a lightbulb?**  
-> None, they prefer dark mode. 😂
+> **Why did the developer go broke buying Bitcoin?**  
+> He kept calling it bytecoin and didn't get any. 😂
 <!-- JOKE-END -->
 
 ---
