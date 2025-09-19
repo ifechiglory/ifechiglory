@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the designer break up with their font?**  
-> Because it wasn't their type. 😂
+> **How do you check if a webpage is HTML5?**  
+> Try it out on Internet Explorer 😂
 <!-- JOKE-END -->
 
 ---
