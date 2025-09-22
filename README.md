@@ -42,8 +42,8 @@ I believe coding isn’t just about syntax — it’s about **problem-solving an
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the programmer quit their job?**  
-> They didn't get arrays. 😂
+> **What is the most used language in programming?**  
+> Profanity. 😂
 <!-- JOKE-END -->
 
 ---
