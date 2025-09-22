@@ -21,21 +21,22 @@ When I’m not coding, I’m teaching others how to craft beautiful and function
 
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3 
-- **Frameworks & Tools:** React, Redux, Storybook, Vite, TailwindCSS 
-- **Version Control:** Git & GitHub **Other Skills:** UI design fundamentals, teaching & mentorship
+- **Frameworks & Tools:** React, Redux, Storybook, Vite, TailwindCSS, Yarn Workspaces 
+- **Version Control:** Git & GitHub
+- **Other Skills:** Teaching & mentorship
 
 ---
 
 ## 📚 Teaching  
 I run sessions on frontend development, helping beginners go from **zero to deploy**.  
-My classes cover HTML, CSS, JavaScript, React, Redux, and modern workflows.  
-I believe coding isn’t just about syntax — it’s about **problem-solving and creating experiences that matter**.  
+My classes cover HTML, CSS, JavaScript, React, and modern workflows.  
+I believe coding isn’t just about syntax; it’s about **problem-solving and creating experiences that matter**.  
 
 ---
 
 ## 🌱 Currently Learning  
 - Advanced Redux (RTK + Async Thunks)  
-- Storybook & Component-Driven Development  
+- Storybook & Component-Driven Development
 
 ---
 
