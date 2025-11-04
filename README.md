@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why don't programmers like nature?**  
-> There's too many bugs. 😂
+> **The punchline often arrives before the set-up.**  
+> Do you know the problem with UDP jokes? 😂
 <!-- JOKE-END -->
 
 ---
