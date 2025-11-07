@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ife  
 
-🚀 **Software Engineer | Frontend Developer | Tech Educator**  
+🚀 **Frontend Developer | Tech Educator**  
 
 I’m a frontend developer passionate about building **clean, user-friendly web experiences**.  
 When I’m not coding, I’m teaching others how to craft beautiful and functional interfaces with **HTML, CSS, JavaScript, and React**.  
