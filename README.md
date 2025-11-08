@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the functions stop calling each other?**  
-> Because they had constant arguments. 😂
+> **Why did the programmer bring a broom to work?**  
+> To clean up all the bugs. 😂
 <!-- JOKE-END -->
 
 ---
