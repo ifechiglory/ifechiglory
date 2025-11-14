@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **There are 10 types of people in this world...**  
-> Those who understand binary and those who don't 😂
+> **Why did the functions stop calling each other?**  
+> Because they had constant arguments. 😂
 <!-- JOKE-END -->
 
 ---
