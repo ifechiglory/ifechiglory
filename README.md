@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why do Java programmers wear glasses?**  
-> Because they don't C#. 😂
+> **Why did the programmer go broke?**  
+> He used up all his cache 😂
 <!-- JOKE-END -->
 
 ---
