@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Knock-knock.**  
-> A race condition. Who is there? 😂
+> **Why did the developer quit his job?**  
+> Because he didn't get arrays. 😂
 <!-- JOKE-END -->
 
 ---
