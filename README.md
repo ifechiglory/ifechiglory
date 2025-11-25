@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **How many React developers does it take to change a lightbulb?**  
-> None, they prefer dark mode. 😂
+> **What did the router say to the doctor?**  
+> It hurts when IP. 😂
 <!-- JOKE-END -->
 
 ---
