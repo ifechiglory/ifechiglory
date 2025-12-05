@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What do you get when you cross a React developer with a mathematician?**  
-> A function component. 😂
+> **I just got fired from my job at the keyboard factory.**  
+> They told me I wasn't putting in enough shifts. 😂
 <!-- JOKE-END -->
 
 ---
