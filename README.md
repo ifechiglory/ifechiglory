@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **3 SQL statements walk into a NoSQL bar. Soon, they walk out**  
-> They couldn't find a table. 😂
+> **I just got fired from my job at the keyboard factory.**  
+> They told me I wasn't putting in enough shifts. 😂
 <!-- JOKE-END -->
 
 ---
