@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **A SQL query walks into a bar, walks up to two tables and asks...**  
-> 'Can I join you?' 😂
+> **Why do C# and Java developers keep breaking their keyboards?**  
+> Because they use a strongly typed language. 😂
 <!-- JOKE-END -->
 
 ---
