@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why was the JavaScript developer sad?**  
-> He didn't know how to null his feelings. 😂
+> **Which song would an exception sing?**  
+> Can't catch me - Avicii 😂
 <!-- JOKE-END -->
 
 ---
