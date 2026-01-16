@@ -21,7 +21,7 @@ When I’m not coding, I’m teaching others how to craft beautiful and function
 
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3 
-- **Frameworks & Tools:** React, Redux, Storybook, Vite, TailwindCSS, Yarn Workspaces, Zustand, Tanstack-query, Zod, Framer-Motion 
+- **Frameworks & Tools:** React, Redux, Storybook, Vite, TailwindCSS, Yarn Workspaces, Zustand, Tanstack-query, Zod, Framer-Motion, Gatsby 
 - **Version Control:** Git & GitHub
 - **Other Skills:** Teaching & mentorship
 
@@ -58,7 +58,7 @@ Here’s a little dev humor (thanks to Official Joke API):
 ---
 
 ## 🔗 Connect with Me  
-- [🌐 Portfolio](https://efay.vercel.app/)  
+- [🌐 Portfolio](https://v4portfolio.netlify.app/)  
 
 ---
 
