@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the programmer's wife leave him?**  
-> He didn't know how to commit. 😂
+> **Why dot net developers don't wear glasses?**  
+> Because they see sharp. 😂
 <!-- JOKE-END -->
 
 ---
