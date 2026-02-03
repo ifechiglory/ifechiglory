@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **To understand what recursion is...**  
-> You must first understand what recursion is 😂
+> **Why don't programmers like nature?**  
+> Too many bugs. 😂
 <!-- JOKE-END -->
 
 ---
