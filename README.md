@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why don't programmers like nature?**  
-> Too many bugs. 😂
+> **Why do programmers prefer dark chocolate?**  
+> Because it's bitter like their code. 😂
 <!-- JOKE-END -->
 
 ---
