@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What do you call a computer mouse that swears a lot?**  
-> A cursor! 😂
+> **How do you comfort a designer?**  
+> You give them some space... between the elements. 😂
 <!-- JOKE-END -->
 
 ---
