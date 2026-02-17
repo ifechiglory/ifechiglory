@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **A user interface is like a joke.**  
-> If you have to explain it then it is not that good. 😂
+> **Hey, wanna hear a joke?**  
+> Parsing HTML with regex. 😂
 <!-- JOKE-END -->
 
 ---
