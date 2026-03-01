@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What’s the object-oriented way to become wealthy?**  
-> Inheritance. 😂
+> **3 SQL statements walk into a NoSQL bar. Soon, they walk out**  
+> They couldn't find a table. 😂
 <!-- JOKE-END -->
 
 ---
