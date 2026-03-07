@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why was the font always tired?**  
-> It was always bold. 😂
+> **Why was the designer always cold?**  
+> Because they always used too much ice-olation. 😂
 <!-- JOKE-END -->
 
 ---
