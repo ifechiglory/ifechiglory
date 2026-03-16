@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Where do programmers like to hangout?**  
-> The Foo Bar. 😂
+> **Why dot net developers don't wear glasses?**  
+> Because they see sharp. 😂
 <!-- JOKE-END -->
 
 ---
