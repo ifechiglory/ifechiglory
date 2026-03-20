@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **If you put a million monkeys at a million keyboards, one of them will eventually write a Java program**  
-> the rest of them will write Perl 😂
+> **Hey, wanna hear a joke?**  
+> Parsing HTML with regex. 😂
 <!-- JOKE-END -->
 
 ---
