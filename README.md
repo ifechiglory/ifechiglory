@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Hey, wanna hear a joke?**  
-> Parsing HTML with regex. 😂
+> **Why did the programmer quit his job?**  
+> Because he didn't get arrays. 😂
 <!-- JOKE-END -->
 
 ---
