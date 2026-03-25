@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What's the best thing about a Boolean?**  
-> Even if you're wrong, you're only off by a bit. 😂
+> **How do you check if a webpage is HTML5?**  
+> Try it out on Internet Explorer 😂
 <!-- JOKE-END -->
 
 ---
