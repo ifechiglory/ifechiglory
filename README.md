@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **I just got fired from my job at the keyboard factory.**  
-> They told me I wasn't putting in enough shifts. 😂
+> **Why would a guitarist become a good programmer?**  
+> He's adept at riffing in C#. 😂
 <!-- JOKE-END -->
 
 ---
