@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the private classes break up?**  
-> Because they never saw each other. 😂
+> **Where did the API go to eat?**  
+> To the RESTaurant. 😂
 <!-- JOKE-END -->
 
 ---
