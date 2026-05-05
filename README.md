@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **How do you comfort a designer?**  
-> You give them some space... between the elements. 😂
+> **To understand what recursion is...**  
+> You must first understand what recursion is 😂
 <!-- JOKE-END -->
 
 ---
