@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What's the best part about TCP jokes?**  
-> I get to keep telling them until you get them. 😂
+> **Why did the developer break up with their keyboard?**  
+> It just wasn't their type anymore. 😂
 <!-- JOKE-END -->
 
 ---
