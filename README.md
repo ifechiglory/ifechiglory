@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **['hip', 'hip']**  
-> (hip hip array) 😂
+> **Why did the programmer go to art school?**  
+> He wanted to learn how to code outside the box. 😂
 <!-- JOKE-END -->
 
 ---
