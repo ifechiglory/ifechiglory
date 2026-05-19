@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **The punchline often arrives before the set-up.**  
-> Do you know the problem with UDP jokes? 😂
+> **Why would a guitarist become a good programmer?**  
+> He's adept at riffing in C#. 😂
 <!-- JOKE-END -->
 
 ---
