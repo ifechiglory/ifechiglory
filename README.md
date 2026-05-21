@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the programmer go to art school?**  
-> He wanted to learn how to code outside the box. 😂
+> **Why did the programmer always carry a pencil?**  
+> They preferred to write in C#. 😂
 <!-- JOKE-END -->
 
 ---
