@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the programmer always mix up Halloween and Christmas?**  
-> Because Oct 31 equals Dec 25. 😂
+> **Why did the programmer quit their job?**  
+> They didn't get arrays. 😂
 <!-- JOKE-END -->
 
 ---
