@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why did the programmer quit their job?**  
-> They didn't get arrays. 😂
+> **How many React developers does it take to change a lightbulb?**  
+> None, they prefer dark mode. 😂
 <!-- JOKE-END -->
 
 ---
