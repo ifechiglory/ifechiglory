@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **How do you check if a webpage is HTML5?**  
-> Try it out on Internet Explorer 😂
+> **Hey, wanna hear a joke?**  
+> Parsing HTML with regex. 😂
 <!-- JOKE-END -->
 
 ---
