@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **How do you generate a random string?**  
-> Put a Windows user in front of Vim and tell them to exit. 😂
+> **Why did the programmer quit his job?**  
+> Because he didn't get arrays. 😂
 <!-- JOKE-END -->
 
 ---
