@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **What's the best thing about a Boolean?**  
-> Even if you're wrong, you're only off by a bit. 😂
+> **Why did the programmer bring a ladder to work?**  
+> They heard the code needed to be debugged from a higher level. 😂
 <!-- JOKE-END -->
 
 ---
