@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **An IPv6 packet is walking out of the house.**  
-> He goes nowhere. 😂
+> **Lady: How do I spread love in this cruel world?**  
+> Random Dude: [...💘] 😂
 <!-- JOKE-END -->
 
 ---
