@@ -43,8 +43,8 @@ I believe coding isn’t just about syntax; it’s about **problem-solving and c
 ## 🎉 Fun Corner  
 Here’s a little dev humor (thanks to Official Joke API):  
 <!-- JOKE-START -->
-> **Why was the JavaScript developer sad?**  
-> He didn't know how to null his feelings. 😂
+> **There are 10 types of people in this world...**  
+> Those who understand binary and those who don't 😂
 <!-- JOKE-END -->
 
 ---
