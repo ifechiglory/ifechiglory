@@ -74,8 +74,5 @@ Here's a little dev humor (thanks to Official Joke API):
 
 ## 🔗 Connect with Me
 
-- [🌐 Portfolio](https://v4portfolio.netlify.app/)
+- [🌐 Portfolio](https://ife-dev.netlify.app/)
 
----
-
-✨ *"Teaching isn't just sharing knowledge, it's shaping creators."*
