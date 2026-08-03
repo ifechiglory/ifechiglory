@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the functions stop calling each other?**  
-> Because they had constant arguments. 😂
+> **What do you call a computer mouse that swears a lot?**  
+> A cursor! 😂
 <!-- JOKE-END -->
 
 ---
