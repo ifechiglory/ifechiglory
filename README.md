@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the private classes break up?**  
-> Because they never saw each other. 😂
+> **Why was the designer always cold?**  
+> Because they always used too much ice-olation. 😂
 <!-- JOKE-END -->
 
 ---
