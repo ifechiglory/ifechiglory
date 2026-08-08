@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **What's the best part about TCP jokes?**  
-> I get to keep telling them until you get them. 😂
+> **Why did the programmer bring a ladder to work?**  
+> They heard the code needed to be debugged from a higher level. 😂
 <!-- JOKE-END -->
 
 ---
