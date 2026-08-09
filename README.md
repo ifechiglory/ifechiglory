@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the programmer bring a ladder to work?**  
-> They heard the code needed to be debugged from a higher level. 😂
+> **Why did the programmer bring a broom to work?**  
+> To clean up all the bugs. 😂
 <!-- JOKE-END -->
 
 ---
