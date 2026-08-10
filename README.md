@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the programmer bring a broom to work?**  
-> To clean up all the bugs. 😂
+> **Why do C# and Java developers keep breaking their keyboards?**  
+> Because they use a strongly typed language. 😂
 <!-- JOKE-END -->
 
 ---
