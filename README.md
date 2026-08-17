@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the developer go broke?**  
-> They kept spending all their cache. 😂
+> **How do you comfort a designer?**  
+> You give them some space... between the elements. 😂
 <!-- JOKE-END -->
 
 ---
