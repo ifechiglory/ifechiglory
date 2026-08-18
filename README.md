@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **How do you comfort a designer?**  
-> You give them some space... between the elements. 😂
+> **A user interface is like a joke.**  
+> If you have to explain it then it is not that good. 😂
 <!-- JOKE-END -->
 
 ---
