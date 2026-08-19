@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **A user interface is like a joke.**  
-> If you have to explain it then it is not that good. 😂
+> **What's the best part about TCP jokes?**  
+> I get to keep telling them until you get them. 😂
 <!-- JOKE-END -->
 
 ---
