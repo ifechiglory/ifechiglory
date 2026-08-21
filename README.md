@@ -59,7 +59,7 @@ Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
 > **Why don't programmers like nature?**  
-> There's too many bugs. 😂
+> Too many bugs. 😂
 <!-- JOKE-END -->
 
 ---
