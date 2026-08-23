@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **I just got fired from my job at the keyboard factory.**  
-> They told me I wasn't putting in enough shifts. 😂
+> **Why did the designer break up with their font?**  
+> Because it wasn't their type. 😂
 <!-- JOKE-END -->
 
 ---
