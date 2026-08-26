@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why do programmers always get Christmas and Halloween mixed up?**  
-> Because DEC 25 = OCT 31 😂
+> **Why do Java programmers wear glasses?**  
+> Because they don't C#. 😂
 <!-- JOKE-END -->
 
 ---
