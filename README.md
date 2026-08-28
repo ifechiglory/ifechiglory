@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **To understand what recursion is...**  
-> You must first understand what recursion is 😂
+> **Why did the developer go to therapy?**  
+> They had too many unresolved issues. 😂
 <!-- JOKE-END -->
 
 ---
