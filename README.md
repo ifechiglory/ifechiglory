@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **How do you check if a webpage is HTML5?**  
-> Try it out on Internet Explorer 😂
+> **Why did the developer go broke buying Bitcoin?**  
+> He kept calling it bytecoin and didn't get any. 😂
 <!-- JOKE-END -->
 
 ---
