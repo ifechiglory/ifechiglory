@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the developer go broke buying Bitcoin?**  
-> He kept calling it bytecoin and didn't get any. 😂
+> **The punchline often arrives before the set-up.**  
+> Do you know the problem with UDP jokes? 😂
 <!-- JOKE-END -->
 
 ---
