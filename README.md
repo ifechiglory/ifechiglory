@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the programmer always carry a pencil?**  
-> They preferred to write in C#. 😂
+> **How many programmers does it take to change a lightbulb?**  
+> None that's a hardware problem 😂
 <!-- JOKE-END -->
 
 ---
