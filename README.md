@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **How many programmers does it take to change a lightbulb?**  
-> None that's a hardware problem 😂
+> **What did the router say to the doctor?**  
+> It hurts when IP. 😂
 <!-- JOKE-END -->
 
 ---
