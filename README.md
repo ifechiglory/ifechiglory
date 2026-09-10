@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the programmer quit their job?**  
-> They didn't get arrays. 😂
+> **Why don't programmers like nature?**  
+> There's too many bugs. 😂
 <!-- JOKE-END -->
 
 ---
