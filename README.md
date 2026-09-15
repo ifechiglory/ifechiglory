@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why dot net developers don't wear glasses?**  
-> Because they see sharp. 😂
+> **What do you call a computer mouse that swears a lot?**  
+> A cursor! 😂
 <!-- JOKE-END -->
 
 ---
