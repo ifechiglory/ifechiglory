@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **What do you call a computer mouse that swears a lot?**  
-> A cursor! 😂
+> **What's the best thing about a Boolean?**  
+> Even if you're wrong, you're only off by a bit. 😂
 <!-- JOKE-END -->
 
 ---
