@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why do Java programmers wear glasses?**  
-> Because they don't C#. 😂
+> **What's the object-oriented way to become wealthy?**  
+> Inheritance 😂
 <!-- JOKE-END -->
 
 ---
