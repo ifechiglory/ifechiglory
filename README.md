@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **What's the object-oriented way to become wealthy?**  
-> Inheritance 😂
+> **Knock-knock.**  
+> A race condition. Who is there? 😂
 <!-- JOKE-END -->
 
 ---
