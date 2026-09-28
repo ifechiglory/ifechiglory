@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Knock-knock.**  
-> A race condition. Who is there? 😂
+> **A DHCP packet walks into a bar and asks for a beer.**  
+> Bartender says, "here, but I’ll need that back in an hour!" 😂
 <!-- JOKE-END -->
 
 ---
