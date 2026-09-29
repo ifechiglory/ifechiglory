@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **A DHCP packet walks into a bar and asks for a beer.**  
-> Bartender says, "here, but I’ll need that back in an hour!" 😂
+> **Why do Java programmers wear glasses?**  
+> Because they don't C#. 😂
 <!-- JOKE-END -->
 
 ---
