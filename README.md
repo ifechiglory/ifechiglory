@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **I was gonna tell you a joke about UDP...**  
-> ...but you might not get it. 😂
+> **A SQL query walks into a bar, walks up to two tables and asks...**  
+> 'Can I join you?' 😂
 <!-- JOKE-END -->
 
 ---
