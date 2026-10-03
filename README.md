@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **A SQL query walks into a bar, walks up to two tables and asks...**  
-> 'Can I join you?' 😂
+> **Why did the designer break up with their font?**  
+> Because it wasn't their type. 😂
 <!-- JOKE-END -->
 
 ---
