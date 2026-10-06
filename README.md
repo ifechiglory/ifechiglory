@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the programmer go broke?**  
-> He used up all his cache 😂
+> **What goes after USA?**  
+> USB. 😂
 <!-- JOKE-END -->
 
 ---
