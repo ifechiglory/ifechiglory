@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **A user interface is like a joke.**  
-> If you have to explain it then it is not that good. 😂
+> **If you put a million monkeys at a million keyboards, one of them will eventually write a Java program**  
+> the rest of them will write Perl 😂
 <!-- JOKE-END -->
 
 ---
