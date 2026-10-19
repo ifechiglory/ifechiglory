@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Which song would an exception sing?**  
-> Can't catch me - Avicii 😂
+> **Where did the API go to eat?**  
+> To the RESTaurant. 😂
 <!-- JOKE-END -->
 
 ---
