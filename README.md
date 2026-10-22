@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why did the functions stop calling each other?**  
-> Because they had constant arguments. 😂
+> **An IPv6 packet is walking out of the house.**  
+> He goes nowhere. 😂
 <!-- JOKE-END -->
 
 ---
