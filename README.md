@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Knock-knock.**  
-> A race condition. Who is there? 😂
+> **Why was the designer always cold?**  
+> Because they always used too much ice-olation. 😂
 <!-- JOKE-END -->
 
 ---
