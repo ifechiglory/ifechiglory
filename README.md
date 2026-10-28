@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **Why was the designer always cold?**  
-> Because they always used too much ice-olation. 😂
+> **There are 10 types of people in this world...**  
+> Those who understand binary and those who don't 😂
 <!-- JOKE-END -->
 
 ---
