@@ -58,8 +58,8 @@ I believe coding isn't just about syntax — it's about **problem-solving and cr
 Here's a little dev humor (thanks to Official Joke API):
 
 <!-- JOKE-START -->
-> **There are 10 types of people in this world...**  
-> Those who understand binary and those who don't 😂
+> **What did the router say to the doctor?**  
+> It hurts when IP. 😂
 <!-- JOKE-END -->
 
 ---
